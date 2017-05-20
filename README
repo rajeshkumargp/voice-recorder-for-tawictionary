@@ -79,16 +79,29 @@ Todo:
 
 Link back to the tamil wiktionary page is still pending.
 
-
-
-
-
 Contact:
 ========
 Shrinivasan T
 tshrinivasan@gmail.com
 http://goinggnu.wordpress.com
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+GUI for WikiVoiceRecorder  
+
+Requirements:
+  For Fedora, 
+   sudo dnf install pygobject3 python3-gobject gtk3
+
+  Source:   https://pygobject.readthedocs.io/en/latest/getting_started.html
+
+
+GUI Execution: 
+   python2 WikiVoiceRecorderGUI.py 2> err
+
+ToDo: 
+  - Uploadinng Ogg files to MediaWiki
 
 
 
